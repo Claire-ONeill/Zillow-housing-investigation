@@ -2,6 +2,7 @@
 This project is a preliminary investigation into the housing market as of June 2023. We will be analyzing the housing prices across America, using information from Zillow. This project is a collaboration with Jecy Liu and Ada Zhang. 
 
 **Guiding Question**: What is the state of our housing market in 2023? 
+
 **Tasks** 
 1. Collect housing information for each state gathering information from Zillow and using Beautiful Soup to collect data
 2. Run script 50 times in order to collect data from each state
