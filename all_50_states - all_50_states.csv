@@ -1,0 +1,468 @@
+bed,bath,sqft,prices,addresses,cities,state
+2,2,1130,89900,"6530 Davidson St #7L, Columbia, SC 29209",Columbia,SC
+3,2,2142,479000,"2825 Kershaw St, Columbia, SC 29205",Columbia,SC
+4,2,1912,275000,"811 S Beltline Blvd, Columbia, SC 29205",Columbia,SC
+3,2,1875,295000,"922 Suber St, Columbia, SC 29205",Columbia,SC
+3,3,2056,247000,"121 Park Springs Rd, Columbia, SC 29223",Columbia,SC
+3,1,992,55000,"1100 Joe Louis Dr, Columbia, SC 29201",Columbia,SC
+3,1,988,139000,"3419 Piedmont Ave, Columbia, SC 29203",Columbia,SC
+1,1,630,165000,"705 Maple St APT F104, Columbia, SC 29205",Columbia,SC
+3,2,1236,125000,"1215 Marsteller Ct, Columbia, SC 29203",Columbia,SC
+3,3,1857,365000,"1124 Westbriar Dr, Virginia Beach, VA 23455",Virginia Beach,VA
+4,3,1467,400000,"764 Lym Dr, Virginia Beach, VA 23464",Virginia Beach,VA
+3,3,1450,410000,"1518 Parks Ave, Virginia Beach, VA 23451",Virginia Beach,VA
+3,3,1460,285000,"4537 Greyedge Dr, Virginia Beach, VA 23462",Virginia Beach,VA
+5,4,2290,399900,"3833 William Penn Blvd, Virginia Beach, VA 23452",Virginia Beach,VA
+3,2,1242,205000,"1033 Commonwealth Pl, Virginia Beach, VA 23464",Virginia Beach,VA
+3,2,1605,320000,"5613 Hearth Dr, Virginia Beach, VA 23464",Virginia Beach,VA
+5,3,2640,425000,"681 Raff Ct, Virginia Beach, VA 23462",Virginia Beach,VA
+3,4,1710,329000,"4960 Almandine Ave, Virginia Beach, VA 23462",Virginia Beach,VA
+3,4,2645,698500,"2650 Monroe Ave, Cleveland, OH 44113",Cleveland,OH
+3,5,2164,819900,"1874 E 123rd St #16, Cleveland, OH 44106",Cleveland,OH
+5,3,3794,90000,"12341 Chesterfield Ave, Cleveland, OH 44108",Cleveland,OH
+2,2,900,96000,"10301 Lake Ave APT 318, Cleveland, OH 44102",Cleveland,OH
+5,2,2124,87000,"1007 E 140th St, Cleveland, OH 44110",Cleveland,OH
+3,2,1638,69000,"3635 E 139th St, Cleveland, OH 44120",Cleveland,OH
+5,2,1650,175000,"1082 E 66th St, Cleveland, OH 44103",Cleveland,OH
+5,1,1720,85000,"1757 Avalon Rd, Cleveland, OH 44112",Cleveland,OH
+6,2,3956,75000,"11614 Fairport Ave, Cleveland, OH 44108",Cleveland,OH
+8,5,6761,1799000,"205 North Prospect Ave, Madison, WI 53726",Madison,WI
+4,2,1623,375000,"5313 Bauer Dr, Madison, WI 53718",Madison,WI
+3,4,1880,299900,"7248 Old Sauk Rd, Madison, WI 53717",Madison,WI
+2,3,1385,299900,"540 Apollo Way, Madison, WI 53718",Madison,WI
+3,3,1855,389900,"7102 Pagham Dr, Madison, WI 53719",Madison,WI
+3,3,1794,435000,"8302 Dolomite Ln, Madison, WI 53719",Madison,WI
+3,1,960,295000,"213 South Walbridge Ave, Madison, WI 53714",Madison,WI
+4,3,2647,570000,"2905 Interlaken Pass, Madison, WI 53719",Madison,WI
+3,2,1916,249900,"107 Kurt Dr, Madison, WI 53714",Madison,WI
+3,3,1664,445000,"1447 Harvest Avenue SE, Olympia, WA 98501",Olympia,WA
+4,3,2591,629950,"7424 Mirasett Street SW Lot12, Tumwater, WA 98512",Tumwater,WA
+3,2,1952,669999,"8024 Fairview Road SW, Olympia, WA 98512",Olympia,WA
+4,3,2354,545000,"519 Woodduck Drive SW, Olympia, WA 98502",Olympia,WA
+3,3,2150,649000,"4135 Maple Street SE, Olympia, WA 98501",Olympia,WA
+2,1,952,269500,"3505 Central Street SE UNIT 1, Olympia, WA 98501",Olympia,WA
+6,7,6593,1299000,"2930 Lohman Court SE, Olympia, WA 98501",Olympia,WA
+3,2,1847,575000,"3402 Woodside Court NE, Olympia, WA 98506",Olympia,WA
+4,3,2763,550000,"5308 Donnelly Drive SE, Olympia, WA 98501",Olympia,WA
+4,2,1952,539000,"957 Pine Street, Burlington, VT 05401",Burlington,VT
+2,2,1502,299900,"7 Ivy Lane, Burlington, VT 05408",Burlington,VT
+2,1,912,350000,"487 South Prospect Street UNIT 2, Burlington, VT 05401",Burlington,VT
+4,2,1748,649000,"30 South Crest Drive, Burlington, VT 05401",Burlington,VT
+5,3,2404,840000,"120 Nottingham Lane, Burlington, VT 05408",Burlington,VT
+4,3,2691,519900,"167 Curtis Avenue, Burlington, VT 05408",Burlington,VT
+3,2,1530,415000,"26 South Union Street, Burlington, VT 05401",Burlington,VT
+1,1,675,239900,"317 Hildred Drive, Burlington, VT 05401",Burlington,VT
+3,2,1686,935000,"40 College Street UNIT 309, Burlington, VT 05401",Burlington,VT
+2,2,955,539900,"17099 W Bernardo Dr UNIT 104, San Diego, CA 92127",San Diego,CA
+3,2,1000,749999,"3249 Towser St, San Diego, CA 92123",San Diego,CA
+4,2,1474,849900,"3337 L St, San Diego, CA 92102",San Diego,CA
+6,4,2889,1999000,"3425 31st St, San Diego, CA 92104",San Diego,CA
+1,1,617,414900,"1480 Broadway #2320, San Diego, CA 92101",San Diego,CA
+4,3,2264,1399000,"10756 Vista Valle Dr, San Diego, CA 92131",San Diego,CA
+2,1,943,749999,"1240 India St UNIT 506, San Diego, CA 92101",San Diego,CA
+4,3,2682,1695000,"6472 Cascade St, San Diego, CA 92122",San Diego,CA
+3,3,1872,849000,"5230 Mount Alifan Dr, San Diego, CA 92111",San Diego,CA
+2,1,1017,370000,"820 W 400 N, Salt Lake City, UT 84116",Salt Lake City,UT
+3,2,1000,419999,"939 E 500 S #A, Salt Lake City, UT 84102",Salt Lake City,UT
+2,2,1067,589000,"5 S 500 W UNIT 815, Salt Lake City, UT 84101",Salt Lake City,UT
+4,2,1868,665000,"1968 S Douglas St, Salt Lake City, UT 84105",Salt Lake City,UT
+2,1,1391,500000,"1199 E 2700 S, Salt Lake City, UT 84106",Salt Lake City,UT
+5,4,4216,2500000,"2250 E 1700 S, Salt Lake City, UT 84108",Salt Lake City,UT
+3,1,1356,525000,"1232 E Crandall Ave, Salt Lake City, UT 84106",Salt Lake City,UT
+4,5,6335,1750000,"1332 S Canterbury Dr, Salt Lake City, UT 84108",Salt Lake City,UT
+2,3,1463,645000,"723 N 300 W #10, Salt Lake City, UT 84103",Salt Lake City,UT
+4,3,2088,334080,"9212 SW 43rd St, Oklahoma City, OK 73179",Oklahoma City,OK
+3,2,1400,234900,"2029 NE 12th St, Oklahoma City, OK 73117",Oklahoma City,OK
+3,2,1364,225000,"10808 Sunnymeade Pl, The Village, OK 73120",The Village,OK
+3,2,1427,169900,"4117 N Westridge St, Oklahoma City, OK 73122",Oklahoma City,OK
+2,1,744,75000,"3608 NW 12th St, Oklahoma City, OK 73107",Oklahoma City,OK
+3,2,1836,219900,"8921 N McKee Blvd, Oklahoma City, OK 73132",Oklahoma City,OK
+3,2,1550,195000,"7429 NW 6th St, Oklahoma City, OK 73127",Oklahoma City,OK
+6,5,3738,235000,"2207 NW 18th St, Oklahoma City, OK 73107",Oklahoma City,OK
+4,3,2592,375000,"11113 Leaning Elm Rd, Oklahoma City, OK 73120",Oklahoma City,OK
+7,4,2632,3595000,"10 27th Ave, Venice, CA 90291",Venice,CA
+3,3,2048,1895000,"8025 Alverstone Ave, Los Angeles, CA 90045",Los Angeles,CA
+3,2,5399,1895000,"2146 Malcolm Ave, Los Angeles, CA 90025",Los Angeles,CA
+3,1,1188,639900,"796 E 41st St, Los Angeles, CA 90011",Los Angeles,CA
+1,1,820,519000,"645 W 9th St APT 431, Los Angeles, CA 90015",Los Angeles,CA
+4,2,1714,710000,"444 W 77th St, Los Angeles, CA 90003",Los Angeles,CA
+5,5,4117,1650000,"9720 Babbitt Ave, Northridge, CA 91325",Northridge,CA
+3,2,1612,1300000,"3617 Willowcrest Ave, Studio City, CA 91604",Studio City,CA
+8,4,3640,2250000,"1889 Lemoyne St APT 1, Los Angeles, CA 90026",Los Angeles,CA
+4,3,2345,375000,"5713 W Westminster Dr, Sioux Falls, SD 57106",Sioux Falls,SD
+5,3,3102,629900,"6609 E 33rd St, Sioux Falls, SD 57110",Sioux Falls,SD
+5,5,4192,1250000,"209 N Harvest Hill Cir Cir, Sioux Falls, SD 57110",Sioux Falls,SD
+5,3,2866,519900,"2605 E Yorkshire St, Sioux Falls, SD 57108",Sioux Falls,SD
+5,3,3646,669900,"3704 S Florence Ave, Sioux Falls, SD 57103",Sioux Falls,SD
+3,2,1257,269900,"9424 W Delores Dr, Sioux Falls, SD 57106",Sioux Falls,SD
+4,4,3048,789900,"1800 W Gray Gables Cir, Sioux Falls, SD 57108",Sioux Falls,SD
+2,2,1512,165000,"1016 N Walts Ave, Sioux Falls, SD 57104",Sioux Falls,SD
+3,2,1775,449500,"1609 W Burton Dr, Brandon, SD 57005",Brandon,SD
+1,2,990,359900,"1868 Cousteau Loop SE, Salem, OR 97302",Salem,OR
+3,2,1637,439995,"382 Greencrest St NE, Salem, OR 97301",Salem,OR
+3,3,1802,499994,"2205 Woodhill St NW, Salem, OR 97304",Salem,OR
+3,2,1593,525000,"5761 Springwood Ave SE, Salem, OR 97306",Salem,OR
+3,4,2321,579900,"1822 Skyway St S, Salem, OR 97302",Salem,OR
+2,1,1309,365000,"1995 19th St NE, Salem, OR 97301",Salem,OR
+4,4,2661,599900,"2184 Deerwind Ave NW, Salem, OR 97304",Salem,OR
+3,3,1662,414995,"418 Lost Lake St, Salem, OR 97301",Salem,OR
+4,3,1657,449900,"2606 San Clemente Ct NE, Salem, OR 97305",Salem,OR
+2,2,1344,229000,"394 Chateau La Salle Dr, San Jose, CA 95111",San Jose,CA
+3,2,1684,1429000,"3495 New Jersey Ave, San Jose, CA 95124",San Jose,CA
+3,2,1321,899999,"1821 Germaine Ct, San Jose, CA 95122",San Jose,CA
+4,2,1585,1388800,"1937 Doxey Dr, San Jose, CA 95131",San Jose,CA
+8,4,3724,1698000,"931 Vermont St, San Jose, CA 95126",San Jose,CA
+4,2,1693,1899000,"3974 Acapulco Dr, Campbell, CA 95008",Campbell,CA
+2,2,1371,998000,"1011 Bellante Ln UNIT 3, San Jose, CA 95131",San Jose,CA
+2,2,1405,1695000,"333 Santana Row APT 220, San Jose, CA 95128",San Jose,CA
+3,4,3450,2180000,"27 Topeka Ave, San Jose, CA 95128",San Jose,CA
+4,3,2450,355000,"913 Sonata Ln, Cheyenne, WY 82007",Cheyenne,WY
+5,3,2951,530000,"3509 Fire Side Dr, Cheyenne, WY 82001",Cheyenne,WY
+4,3,2652,529000,"4717 Storm Ct, Cheyenne, WY 82009",Cheyenne,WY
+3,4,2108,380500,"6955 Wilderness Trl, Cheyenne, WY 82001",Cheyenne,WY
+2,1,759,279900,"356 Stinson Ave, Cheyenne, WY 82007",Cheyenne,WY
+4,3,4489,750000,"434 Stampede Cir, Cheyenne, WY 82009",Cheyenne,WY
+2,1,663,30000,"3801 Atkin St, Cheyenne, WY 82001",Cheyenne,WY
+6,7,8495,945000,"308 Stetson Dr, Cheyenne, WY 82009",Cheyenne,WY
+2,2,900,190000,"4704 Hickory Pl, Cheyenne, WY 82009",Cheyenne,WY
+4,3,4122,435000,"235 Lewis St, Harrisburg, PA 17110",Harrisburg,PA
+3,2,1140,169900,"1135 Hudson St, Harrisburg, PA 17104",Harrisburg,PA
+2,2,1604,289900,"6452 Whisper Wood Ln, Harrisburg, PA 17112",Harrisburg,PA
+4,4,3536,725000,"2348 Abbey Ln, Harrisburg, PA 17112",Harrisburg,PA
+2,2,1011,205000,"6122 Knisley St, Harrisburg, PA 17112",Harrisburg,PA
+4,4,4108,615000,"1624 Mitchell Rd, Harrisburg, PA 17110",Harrisburg,PA
+4,2,1766,235000,"3609 Colonial Rd, Harrisburg, PA 17109",Harrisburg,PA
+2,1,760,175000,"1105 4th Ave, Steelton, PA 17113",Steelton,PA
+3,1,2194,260000,"100 Summit St, Steelton, PA 17113",Steelton,PA
+3,3,1941,660000,"1412A Chester Ave, Nashville, TN 37206",Nashville,TN
+1,1,620,325000,"1803 Broadway APT 421, Nashville, TN 37203",Nashville,TN
+2,2,1122,255000,"110 Bellevue Rd APT 30, Nashville, TN 37221",Nashville,TN
+3,1,1092,335000,"5012 Hasty Dr, Nashville, TN 37211",Nashville,TN
+4,3,2270,749999,"2351 Herman St, Nashville, TN 37208",Nashville,TN
+3,2,1804,425000,"898 General George Patton Rd, Nashville, TN 37221",Nashville,TN
+3,2,1913,419800,"285 Bonnasprings Dr, Hermitage, TN 37076",Hermitage,TN
+4,3,2583,574900,"1009 Lawsons Ridge Dr, Nashville, TN 37218",Nashville,TN
+4,3,2347,614900,"522 Elaine Dr, Nashville, TN 37211",Nashville,TN
+2,1,2016,149900,"2416 26th Ave S APT 208, Fargo, ND 58103",Fargo,ND
+2,1,2016,142500,"2419 25 1/2 Ave S APT 206, Fargo, ND 58103",Fargo,ND
+3,3,1855,365000,"1112 12th St N #102, Fargo, ND 58102",Fargo,ND
+3,3,1855,365000,"1112 12th St N #103, Fargo, ND 58102",Fargo,ND
+3,3,1778,279900,"4288 Auburn Ave S, Fargo, ND 58104",Fargo,ND
+3,3,1855,365000,"1112 12th St N #104, Fargo, ND 58102",Fargo,ND
+5,3,2981,429900,"3414 28th Ave S, Fargo, ND 58103",Fargo,ND
+4,4,2783,390000,"2808 38 1/2 Ave S, Fargo, ND 58104",Fargo,ND
+3,3,1855,365000,"1112 12th St N #105, Fargo, ND 58102",Fargo,ND
+2,2,1522,475000,"31 Kenyon St, Providence, RI 02909",Providence,RI
+17,4,4800,775000,"73 Health Ave, Providence, RI 02908",Providence,RI
+3,2,1610,445000,"104 Calverley St, Providence, RI 02908",Providence,RI
+2,2,1466,299900,"150 New York Ave, Providence, RI 02905",Providence,RI
+6,3,3900,824900,"17 Hillside Ave, Providence, RI 02906",Providence,RI
+3,2,1598,779000,"245 8th St, Providence, RI 02906",Providence,RI
+14,6,5339,995000,"166 Williams St, Providence, RI 02906",Providence,RI
+3,2,2030,425000,"32 Jacqueline Dr, Providence, RI 02909",Providence,RI
+3,2,1616,719000,"225 5th St, Providence, RI 02906",Providence,RI
+4,4,2861,1150000,"3904 Gaines Ct, Austin, TX 78735",Austin,TX
+2,2,939,399500,"2505 San Gabriel St APT 511, Austin, TX 78705",Austin,TX
+2,3,1151,400000,"1201 Grove Blvd APT 1102, Austin, TX 78741",Austin,TX
+3,2,1918,1495000,"1304 E 2nd St, Austin, TX 78702",Austin,TX
+4,4,2715,969000,"12 Scarlet Rdg, Austin, TX 78737",Austin,TX
+4,3,2804,1575000,"3908 Idlewild Rd, Austin, TX 78731",Austin,TX
+1,1,589,244900,"910 Duncan Ln APT 35, Austin, TX 78705",Austin,TX
+2,2,1259,375000,"1700 Coturnix Dr #96, Austin, TX 78758",Austin,TX
+3,3,2454,619227,"2793 Jack Rabbit Way, Justin, TX 76247",Justin,TX
+4,3,3393,225000,"801 Leawood Dr, Frankfort, KY 40601",Frankfort,KY
+3,2,2464,289900,"404 Chippewa Trl, Frankfort, KY 40601",Frankfort,KY
+3,2,1649,263700,"929 Brookhaven Dr, Frankfort, KY 40601",Frankfort,KY
+3,3,1650,299000,"121 Wood Duck Dr, Frankfort, KY 40601",Frankfort,KY
+3,2,1740,259900,"224 Hawthorne Dr, Frankfort, KY 40601",Frankfort,KY
+3,2,2063,170000,"1654 Highview Cir, Frankfort, KY 40601",Frankfort,KY
+2,1,1028,150000,"124 Pickett Ave, Frankfort, KY 40601",Frankfort,KY
+4,3,2474,439900,"1406 Colston Ln, Frankfort, KY 40601",Frankfort,KY
+3,3,1944,254000,"1157 Ojibwa Trl, Frankfort, KY 40601",Frankfort,KY
+3,3,1828,190000,"2450 Seracedar St, Baton Rouge, LA 70816",Baton Rouge,LA
+4,3,2403,315000,"12335 Queensbury Ave, Baton Rouge, LA 70815",Baton Rouge,LA
+4,2,1744,59900,"3217 Huron St, Baton Rouge, LA 70805",Baton Rouge,LA
+4,2,1437,129900,"8321 Gay Dr, Baton Rouge, LA 70814",Baton Rouge,LA
+4,3,2164,289900,"13911 Calcasieu Ave, Baton Rouge, LA 70818",Baton Rouge,LA
+3,2,1511,235000,"16137 Crepemyrtle Dr, Baton Rouge, LA 70817",Baton Rouge,LA
+4,2,1978,295000,"16536 Missionary Ridge Ave, Baton Rouge, LA 70817",Baton Rouge,LA
+4,3,2521,284900,"10339 Montrachet Dr, Baton Rouge, LA 70817",Baton Rouge,LA
+3,2,1490,159900,"2490 Armstrong Cir, Baton Rouge, LA 70816",Baton Rouge,LA
+4,2,2395,395000,"10 Farnum Street, Augusta, ME 04330",Augusta,ME
+4,3,2700,399000,"65 Quimby Street, Augusta, ME 04330",Augusta,ME
+2,1,884,199900,"233 Northern Avenue, Augusta, ME 04330",Augusta,ME
+2,2,1080,279000,"433 Civic Center Drive, Augusta, ME 04330",Augusta,ME
+3,2,1639,249000,"48 Kelton Road, Augusta, ME 04330",Augusta,ME
+4,4,3518,650000,"18 Fieldstone Drive, Augusta, ME 04330",Augusta,ME
+2,3,1830,759000,"147 Young Road, Augusta, ME 04330",Augusta,ME
+5,3,2178,159000,"8 Weston Street, Augusta, ME 04330",Augusta,ME
+5,3,2560,469000,"31 Stony Brook Road, Augusta, ME 04330",Augusta,ME
+3,3,1280,500000,"730 Rosedale St, Annapolis, MD 21401",Annapolis,MD
+3,3,1670,485000,"12 Chelsea Ct, Annapolis, MD 21403",Annapolis,MD
+3,2,1650,530000,"10 1st St, Annapolis, MD 21401",Annapolis,MD
+4,2,1212,319900,"115 Janwall St, Annapolis, MD 21403",Annapolis,MD
+3,3,1253,500000,"519 Ridge Rd, Annapolis, MD 21401",Annapolis,MD
+2,1,1138,399000,"3290 Arundel On The Bay Rd, Annapolis, MD 21403",Annapolis,MD
+2,2,1134,599000,"1101 Poplar Ave, Annapolis, MD 21401",Annapolis,MD
+4,4,3018,1185000,"3052 Rundelac Rd, Annapolis, MD 21403",Annapolis,MD
+2,2,936,377000,"1300 Cape Saint Claire Rd, Annapolis, MD 21409",Annapolis,MD
+3,1,1161,114900,"1237 Lathrop St, Lansing, MI 48912",Lansing,MI
+2,2,880,119900,"408 N Magnolia Ave, Lansing, MI 48912",Lansing,MI
+4,2,1810,152500,"2337 N Grand River Ave, Lansing, MI 48906",Lansing,MI
+3,3,2014,269000,"1736 N Hayford Ave, Lansing, MI 48912",Lansing,MI
+3,2,1313,154900,"3812 Stratford Ave, Lansing, MI 48911",Lansing,MI
+3,2,1472,279900,"1118 Cindy Dr, Lansing, MI 48917",Lansing,MI
+3,2,1536,169900,"6227 Marywood Ave, Lansing, MI 48911",Lansing,MI
+3,2,1774,260000,"4824 Moultrie Cir, Lansing, MI 48917",Lansing,MI
+3,1,1313,138000,"526 Spokane Ave, Lansing, MI 48910",Lansing,MI
+2,1,770,129900,"981 Seminary Ave, Saint Paul, MN 55104",Saint Paul,MN
+3,1,1959,239900,"618 Arlington Ave E, Saint Paul, MN 55130",Saint Paul,MN
+3,3,1688,400000,"2162 Stanford Ave, Saint Paul, MN 55105",Saint Paul,MN
+2,1,1045,125000,"1051 5th St E, Saint Paul, MN 55106",Saint Paul,MN
+4,2,1892,325000,"680 Cherokee Ave, Saint Paul, MN 55107",Saint Paul,MN
+4,1,1623,257000,"2342 Commonwealth Ave, Saint Paul, MN 55108",Saint Paul,MN
+3,2,1080,255000,"1241 Charles Ave, Saint Paul, MN 55104",Saint Paul,MN
+3,2,1615,240000,"1543 Edmund Ave, Saint Paul, MN 55104",Saint Paul,MN
+3,1,1348,374900,"1880 Juliet Ave, Saint Paul, MN 55105",Saint Paul,MN
+5,2,1679,319000,"516 S Rosewood Ave, Jackson, MI 49201",Jackson,MI
+3,2,2140,249900,"4845 Fleetwood Ln, Jackson, MI 49201",Jackson,MI
+4,2,1792,210000,"4700 Bailey Rd, Jackson, MI 49201",Jackson,MI
+5,1,1820,159900,"9173 E Michigan Ave, Jackson, MI 49201",Jackson,MI
+2,1,704,50000,"235 E Prospect St, Jackson, MI 49203",Jackson,MI
+2,1,1044,160000,"3267 Brooklyn Rd, Jackson, MI 49203",Jackson,MI
+4,3,2500,349900,"6951 Clark Lake Rd, Jackson, MI 49201",Jackson,MI
+4,1,1817,120000,"620 Eaton St, Jackson, MI 49202",Jackson,MI
+4,2,2096,184900,"4834 Lansing Ave, Jackson, MI 49201",Jackson,MI
+4,3,1994,225000,"705 Cardinal St, Jefferson City, MO 65101",Jefferson City,MO
+4,3,2548,239900,"602 Ellis Blvd, Jefferson City, MO 65101",Jefferson City,MO
+3,4,3382,310000,"2015 Windvalley Ct, Jefferson City, MO 65101",Jefferson City,MO
+3,3,1450,178000,"5432 Collier Ln, Jefferson City, MO 65109",Jefferson City,MO
+3,2,1257,189900,"920 Myrtle Ave, Jefferson City, MO 65109",Jefferson City,MO
+4,3,2696,399900,"3612 Schott Rd, Jefferson City, MO 65101",Jefferson City,MO
+3,2,2110,185900,"1217 Edgewood Dr, Jefferson City, MO 65109",Jefferson City,MO
+3,2,2144,215000,"711 Nelson Dr, Jefferson City, MO 65101",Jefferson City,MO
+3,3,2148,269900,"825 Troy Dr, Jefferson City, MO 65109",Jefferson City,MO
+3,2,1686,445000,"1159 Seagull Rd, Helena, MT 59602",Helena,MT
+5,3,2836,729000,"901 Stuart St, Helena, MT 59601",Helena,MT
+3,1,1613,280000,"800 Tenneson Rd, Helena, MT 59602",Helena,MT
+4,2,2128,849900,"5640 Sunset Rd, Helena, MT 59602",Helena,MT
+3,2,2973,795000,"7470 Clausen Rd, Helena, MT 59601",Helena,MT
+4,3,2117,749000,"6275 Elkhorn Rd, Helena, MT 59602",Helena,MT
+3,3,2450,1200000,"8510 Backburn Dr, Helena, MT 59602",Helena,MT
+2,1,908,250000,"408 N Rodney St, Helena, MT 59601",Helena,MT
+3,2,3114,465000,"2829 Alexis Ave, Helena, MT 59601",Helena,MT
+3,2,1296,205000,"2223 N 28th St, Lincoln, NE 68503",Lincoln,NE
+3,1,1312,229900,"6251 S 48th St, Lincoln, NE 68516",Lincoln,NE
+3,3,2316,294900,"230 Wedgewood Dr, Lincoln, NE 68510",Lincoln,NE
+2,2,1782,249900,"4721 Valley Rd, Lincoln, NE 68510",Lincoln,NE
+4,3,2564,450000,"3222 N 92nd St, Lincoln, NE 68507",Lincoln,NE
+3,2,1784,269000,"1224 S 13th St, Lincoln, NE 68502",Lincoln,NE
+4,2,832,289000,"6340 Francis St, Lincoln, NE 68505",Lincoln,NE
+4,2,1799,280000,"4740 S 47th St, Lincoln, NE 68516",Lincoln,NE
+3,1,1061,199000,"3354 S 44th St, Lincoln, NE 68506",Lincoln,NE
+3,2,1080,365000,"33 Granite Way, Carson City, NV 89706",Carson City,NV
+3,1,1038,380000,"400 Sandstone Dr, Carson City, NV 89706",Carson City,NV
+2,1,933,330000,"1702 N Fall St, Carson City, NV 89706",Carson City,NV
+3,3,1556,475000,"1832 Rock Ct, Carson City, NV 89701",Carson City,NV
+3,2,1314,419900,"528 Court, Carson City, NV 89701",Carson City,NV
+4,3,1768,489500,"2523 Pinebrook Dr, Carson City, NV 89701",Carson City,NV
+3,2,2225,799900,"4395 Combs Canyon Rd, Carson City, NV 89703",Carson City,NV
+3,2,1040,330000,"3134 Shriver Dr, Carson City, NV 89701",Carson City,NV
+3,2,1370,435900,"401 Springview Dr, Carson City, NV 89701",Carson City,NV
+6,3,3783,150000,"20 High Street, Boscawen, NH 03303",Boscawen,NH
+4,3,2553,475000,"19 Liberty Street, Concord, NH 03301",Concord,NH
+4,3,3093,885000,"79 Mountain Rd, Concord, NH 03301",Concord,NH
+3,1,1458,399900,"13 Holt Street, Concord, NH 03301",Concord,NH
+3,2,1303,299000,"20 Downing Street, Concord, NH 03301",Concord,NH
+3,2,1581,335000,"33 Cemetery Street, Concord, NH 03301",Concord,NH
+3,1,1000,325000,"66 Auburn Street, Concord, NH 03301",Concord,NH
+5,4,3824,889900,"39 Thayer Pond Road, Concord, NH 03301",Concord,NH
+4,3,2440,569000,"16 Grove Street, Concord, NH 03301",Concord,NH
+3,3,1581,299900,"533 Home Ave, Trenton, NJ 08611",Trenton,NJ
+3,1,1148,249000,"3831 Nottingham Way, Hamilton, NJ 08690",Hamilton,NJ
+2,1,1025,325000,"120 McAdoo Ave, Hamilton, NJ 08619",Hamilton,NJ
+4,2,1546,274900,"21 Theresa St, Ewing, NJ 08618",Ewing,NJ
+2,1,1143,229000,"123 Chinnick Ave, Hamilton, NJ 08619",Hamilton,NJ
+3,2,900,350000,"171 Lowell Ave, Hamilton, NJ 08619",Hamilton,NJ
+4,3,2300,515000,"8 Soden Dr, Hamilton, NJ 08620",Hamilton,NJ
+3,3,1219,285000,"130 Thropp Ave, Hamilton, NJ 08610",Hamilton,NJ
+3,2,1224,330000,"186 Highland Ave, Hamilton, NJ 08620",Hamilton,NJ
+4,4,2151,765000,"2176 Ridgeview Cir, Santa Fe, NM 87505",Santa Fe,NM
+3,2,1352,244900,"23 Bancker Street, Albany, NY 12208",Albany,NY
+3,1,1260,189900,"37 Besch Avenue, Albany, NY 12209",Albany,NY
+3,1,1425,269000,"2 Braintree Street, Albany, NY 12205",Albany,NY
+3,1,704,145000,"2 Elmendorf Street, Albany, NY 12202",Albany,NY
+3,2,1477,134900,"268 1st Street, Albany, NY 12206",Albany,NY
+3,2,1428,299900,"102 Waterman Avenue, Albany, NY 12205",Albany,NY
+4,5,3417,699900,"13 Laurel Drive, Loudonville, NY 12211",Loudonville,NY
+3,2,1674,214900,"139 Woodlawn Avenue, Albany, NY 12208",Albany,NY
+4,1,1224,289000,"28 Anthony Lane, Colonie, NY 12205",Colonie,NY
+2,2,1163,468900,"400 W North St APT 518, Raleigh, NC 27603",Raleigh,NC
+3,3,1596,444900,"8724 Springhouse Ln, Raleigh, NC 27617",Raleigh,NC
+3,2,1430,286900,"704 Sunnybrook Rd, Raleigh, NC 27610",Raleigh,NC
+2,1,1161,575000,"3002 Medlin Dr, Raleigh, NC 27607",Raleigh,NC
+4,3,2134,433750,"4041 Mount Moran Rd, Raleigh, NC 27616",Raleigh,NC
+3,2,1166,299900,"2912 Basswood Dr, Raleigh, NC 27610",Raleigh,NC
+4,4,3157,830000,"4900 Boulder Creek Ln, Raleigh, NC 27613",Raleigh,NC
+5,3,3369,750000,"4129 Worley Dr, Raleigh, NC 27613",Raleigh,NC
+4,4,1202,275000,"1251 University Ct, Raleigh, NC 27606",Raleigh,NC
+4,3,2229,220000,"7448 Gardenview Pl, Dublin, OH 43016",Dublin,OH
+4,3,2051,340000,"1861 Torchwood Dr, Columbus, OH 43229",Columbus,OH
+3,3,2337,385000,"6891 Sparrow Ln, Columbus, OH 43235",Columbus,OH
+3,2,1790,100000,"1215 Saling Dr, Columbus, OH 43229",Columbus,OH
+3,2,1110,300000,"2651 Findley Ave, Columbus, OH 43202",Columbus,OH
+4,2,2144,259000,"3047 Azelda St, Columbus, OH 43224",Columbus,OH
+4,2,1830,269900,"1707 Parkgate Rd, Columbus, OH 43229",Columbus,OH
+5,3,2532,275000,"90 N Warren Ave, Columbus, OH 43204",Columbus,OH
+4,4,2138,429900,"6047 Rothchester Dr, Galloway, OH 43119",Galloway,OH
+3,2,1273,340000,"11208 W Musket St, Boise, ID 83713",Boise,ID
+4,3,2040,725000,"2205 S Tawny Woods Pl, Boise, ID 83706",Boise,ID
+4,3,2658,872900,"5703 E Gateway Dr, Boise, ID 83716",Boise,ID
+3,2,1873,590000,"6075 N Stafford Pl, Boise, ID 83713",Boise,ID
+4,2,1661,509999,"5562 S Amaryllis Pl, Boise, ID 83716",Boise,ID
+3,1,1585,509000,"3218 W Sunset Ave, Boise, ID 83703",Boise,ID
+5,3,2751,762500,"18387 N Goldenridge Way, Boise, ID 83714",Boise,ID
+3,2,1621,519000,"5033 N Edenburgh Way, Boise, ID 83714",Boise,ID
+4,3,2104,499000,"3184 W Catalina Ln, Boise, ID 83705",Boise,ID
+3,2,1852,422040,"6024 Nauman Dr, Albuquerque, NM 87106",Albuquerque,NM
+3,2,1100,230000,"6043 Redlands Rd NW, Albuquerque, NM 87120",Albuquerque,NM
+3,1,1020,319900,"500 Valverde Dr SE, Albuquerque, NM 87108",Albuquerque,NM
+4,3,2856,480000,"8809 Valle Prado Ln NW, Albuquerque, NM 87114",Albuquerque,NM
+6,3,8276,260000,"517 Kentucky St SE, Albuquerque, NM 87108",Albuquerque,NM
+3,2,1912,435000,"4700 Robin Ave NE, Albuquerque, NM 87110",Albuquerque,NM
+3,2,1333,290000,"1847 Betts St NE, Albuquerque, NM 87112",Albuquerque,NM
+3,2,1692,330000,"12100 Tivoli Ave NE, Albuquerque, NM 87111",Albuquerque,NM
+4,3,2537,460000,"4305 Barrett Ave NW, Albuquerque, NM 87114",Albuquerque,NM
+3,1,1443,145000,"1929 S State St, Springfield, IL 62704",Springfield,IL
+3,2,1250,159900,"4047 Oakbrook Ct, Springfield, IL 62711",Springfield,IL
+3,2,1590,64900,"2237 S 14th St, Springfield, IL 62703",Springfield,IL
+3,2,1542,159900,"2428 S State St, Springfield, IL 62704",Springfield,IL
+3,2,1607,150000,"2507 Lindsay Rd, Springfield, IL 62704",Springfield,IL
+2,1,854,79900,"728 E Keys Ave, Springfield, IL 62702",Springfield,IL
+2,1,888,58000,"1826 E Cedar St, Springfield, IL 62703",Springfield,IL
+3,1,980,63000,"1513 E Cummins Ave, Springfield, IL 62702",Springfield,IL
+2,1,798,110000,"4117 11th St, Des Moines, IA 50313",Des Moines,IA
+2,1,980,129000,"3112 Mahaska Ave, Des Moines, IA 50317",Des Moines,IA
+4,2,864,210000,"4300 SE 11th St, Des Moines, IA 50315",Des Moines,IA
+3,3,1860,669900,"814 E 2nd St, Des Moines, IA 50309",Des Moines,IA
+3,3,2289,784900,"812 E 2nd St, Des Moines, IA 50309",Des Moines,IA
+3,3,2289,799900,"810 E 2nd St, Des Moines, IA 50309",Des Moines,IA
+3,4,2289,709900,"221 Maple St, Des Moines, IA 50309",Des Moines,IA
+2,1,1274,205000,"2719 E Grand Ave, Des Moines, IA 50317",Des Moines,IA
+3,3,1305,285000,"5555 Meredith Dr #1B, Des Moines, IA 50310",Des Moines,IA
+3,3,1483,1449000,"549 Keolu Dr APT A, Kailua, HI 96734",Kailua,HI
+3,2,2130,1350000,"1168 Akipola St, Kailua, HI 96734",Kailua,HI
+6,4,4109,4695000,"103 Kaapuni Dr, Kailua, HI 96734",Kailua,HI
+2,2,814,695000,"355 Aoloa St, Kailua, HI 96734",Kailua,HI
+3,2,1200,855000,"1020 Aoloa Pl APT 111B, Kailua, HI 96734",Kailua,HI
+3,3,2112,1485000,"1181 Lauloa St, Kailua, HI 96734",Kailua,HI
+3,2,1357,789000,"1237 Akipohe St APT C, Kailua, HI 96734",Kailua,HI
+2,2,811,710000,"355 Aoloa St APT N204, Kailua, HI 96734",Kailua,HI
+8,7,4300,2300000,"1097 Uluopihi Loop, Kailua, HI 96734",Kailua,HI
+3,2,1368,194900,"8344 Dison Dr, Montgomery, AL 36117",Montgomery,AL
+3,2,1332,189900,"1355 Cameron Ct, Montgomery, AL 36117",Montgomery,AL
+3,1,1350,130000,"3531 Milan Dr, Montgomery, AL 36109",Montgomery,AL
+3,2,1434,180000,"1167 Hidden Meadow Dr, Montgomery, AL 36117",Montgomery,AL
+3,2,1092,72000,"160 Beckview Dr, Montgomery, AL 36105",Montgomery,AL
+2,1,1000,324900,"6312 Ashwood Cir, Montgomery, AL 36108",Montgomery,AL
+4,2,2845,210000,"570 Chatsworth Dr, Montgomery, AL 36109",Montgomery,AL
+4,3,2348,350000,"1077 Russborough Trce, Montgomery, AL 36117",Montgomery,AL
+3,1,1358,155000,"3468 Cloverdale Rd, Montgomery, AL 36111",Montgomery,AL
+7,3,2729,675000,"8911 Sleepy Ct, Juneau, AK 99801",Juneau,AK
+5,3,3875,826000,"808 5th St, Juneau, AK 99801",Juneau,AK
+2,1,1270,259900,"431 Seward St, Juneau, AK 99801",Juneau,AK
+4,3,1541,531500,"4128 Taku Blvd, Juneau, AK 99801",Juneau,AK
+5,3,2951,699900,"8563 Forest Ln #8565, Juneau, AK 99801",Juneau,AK
+3,2,1738,443000,"4488 Chelsea Ct, Juneau, AK 99801",Juneau,AK
+3,2,1356,399000,"4090-4 Delta Dr UNIT 4, Juneau, AK 99801",Juneau,AK
+3,2,1356,399000,"4090-3 Delta Dr UNIT 3, Juneau, AK 99801",Juneau,AK
+2,2,956,285000,"2228 E Campbell Ave APT 104, Phoenix, AZ 85016",Phoenix,AZ
+4,2,2272,749000,"128 W Thunderbird Rd, Phoenix, AZ 85023",Phoenix,AZ
+3,3,2143,649990,"5047 E Gallop Way, Scottsdale, AZ 85254",Scottsdale,AZ
+3,2,1540,475000,"1317 W Villa Rita Dr, Phoenix, AZ 85023",Phoenix,AZ
+2,2,1022,245000,"18811 N 19th Ave APT 1022, Phoenix, AZ 85027",Phoenix,AZ
+4,4,1768,363000,"1812 N 77th Gln, Phoenix, AZ 85035",Phoenix,AZ
+3,3,1801,525000,"3223 W Carter Rd, Phoenix, AZ 85041",Phoenix,AZ
+5,4,3646,1499000,"21505 N 59th Ter, Phoenix, AZ 85054",Phoenix,AZ
+5,4,2780,1295000,"31628 N 40th Way, Cave Creek, AZ 85331",Cave Creek,AZ
+3,1,1341,399000,"4910 Lippitt Ln, Sacramento, CA 95820",Sacramento,CA
+3,3,2206,710000,"133 Suez Canal Ln, Sacramento, CA 95834",Sacramento,CA
+2,3,9583,150000,"3424 Taylor St, Sacramento, CA 95838",Sacramento,CA
+1,3,1286,399000,"6532 La Cienega Dr, North Highlands, CA 95660",North Highlands,CA
+1,3,1074,249900,"4400 39th Ave, Sacramento, CA 95824",Sacramento,CA
+2,4,1125,360000,"5613 Rosario Blvd, North Highlands, CA 95660",North Highlands,CA
+2,3,1272,388999,"6551 Channing Dr, North Highlands, CA 95660",North Highlands,CA
+2,3,1224,415000,"6801 Springwood Dr, Sacramento, CA 95842",Sacramento,CA
+2,3,1588,328000,"4253-4253 W Taylor St, Sacramento, CA 95838",Sacramento,CA
+2,2,1214,279000,"15475 Andrews Drive  Unit 312, Denver, CO 80239",Denver,CO
+5,2,1908,550000,"3970 N Jackson Street, Denver, CO 80205",Denver,CO
+3,3,2376,719000,"1950 S Kearney Way, Denver, CO 80224",Denver,CO
+3,2,1365,500000,"4800 Perry Street, Denver, CO 80212",Denver,CO
+1,1,784,250000,"3414 S Locust Street  Unit C, Denver, CO 80222",Denver,CO
+2,3,1408,370000,"9283 E Nassau Avenue, Denver, CO 80237",Denver,CO
+4,3,2248,695000,"3600 Ivanhoe Street, Denver, CO 80207",Denver,CO
+3,3,2192,825000,"653 Fox Street, Denver, CO 80204",Denver,CO
+2,1,706,537000,"3601 N Saint Paul Street, Denver, CO 80205",Denver,CO
+2,4,4612,1650000,"585 Cherokee Ave SE, Atlanta, GA 30312",Atlanta,GA
+5,3,2544,1175000,"49 Paces West Dr NW, Atlanta, GA 30327",Atlanta,GA
+3,3,1913,620000,"427 W Ontario Ave SW, Atlanta, GA 30310",Atlanta,GA
+3,1,492,200000,"1355 Euclid Ave NE APT 7, Atlanta, GA 30307",Atlanta,GA
+1,1,1976,249000,"215 Silver Springs Cir SW, Atlanta, GA 30310",Atlanta,GA
+2,2,872,170000,"4024 Blanton Ave SW, Atlanta, GA 30331",Atlanta,GA
+4,4,40946,49900,"101 Howell Dr SW, Atlanta, GA 30331",Atlanta,GA
+3,2,2335,450000,"513 Glenwood Ave SE, Atlanta, GA 30312",Atlanta,GA
+2,2,1792,800000,"640 Glen Iris Dr NE APT 615, Atlanta, GA 30308",Atlanta,GA
+5,3,4000,1650000,"2040 22nd Streetth St, Brooklyn, NY 11229",Brooklyn,NY
+1,1,1927,575000,"235 E 49th St APT 3A, New York, NY 10017",New York,NY
+3,3,1531,2415000,"350 Butler St #8A, Brooklyn, NY 11217",Brooklyn,NY
+4,2,2205,1680000,"6710 15th Ave, Brooklyn, NY 11219",Brooklyn,NY
+1,1,482,595000,"250 E 40th St APT 22C, New York, NY 10016",New York,NY
+2,2,1297,1950000,"215 E 80th St APT 7J, New York, NY 10075",New York,NY
+2,2,1200,1995000,"325 5th Ave APT 20H, New York, NY 10016",New York,NY
+1,1,450,220000,"90-02 63rd Dr APT 6E, Rego Park, NY 11374",Rego Park,NY
+2,1,996,695000,"1885 Lexington Ave APT 6D, New York, NY 10035",New York,NY
+8,3,1850,169500,"168 Brookfield St, Hartford, CT 06106",Hartford,CT
+3,2,1602,309900,"711 Broadview Ter, Hartford, CT 06106",Hartford,CT
+5,2,5553,610000,"49 Benton St, Hartford, CT 06114",Hartford,CT
+12,6,3149,299900,"163 Wilson St, Hartford, CT 06106",Hartford,CT
+6,3,3873,300000,"33 Seyms St, Hartford, CT 06120",Hartford,CT
+12,3,1865,259900,"736 Hillside Ave, Hartford, CT 06106",Hartford,CT
+3,2,2256,264900,"71 Tremont St, Hartford, CT 06105",Hartford,CT
+3,2,4248,249925,"150 Babcock St, Hartford, CT 06106",Hartford,CT
+1,2,2160,249000,"141 Mather St, Hartford, CT 06120",Hartford,CT
+1,1,1455,225000,"300 S Duval St UNIT 2103, Tallahassee, FL 32301",Tallahassee,FL
+4,2,2190,99900,"1422 Russell St, Tallahassee, FL 32310",Tallahassee,FL
+2,2,703,150000,"741 White Dr APT 24, Tallahassee, FL 32304",Tallahassee,FL
+4,2,1088,369900,"5637 Sioux Dr, Tallahassee, FL 32317",Tallahassee,FL
+4,2,984,299900,"1809 Doomar Dr, Tallahassee, FL 32308",Tallahassee,FL
+3,2,1760,225000,"2032 Harriet Dr, Tallahassee, FL 32303",Tallahassee,FL
+3,2,1600,185000,"5628 Cypress Cir, Tallahassee, FL 32303",Tallahassee,FL
+4,3,1288,399900,"4729 Buttercup Way, Tallahassee, FL 32311",Tallahassee,FL
+3,2,950,315000,"3896 Mayflower Ct, Tallahassee, FL 32303",Tallahassee,FL
+4,4,3100,735000,"1935 Bellefontaine St, Indianapolis, IN 46202",Indianapolis,IN
+2,2,1456,115000,"2702 E New York St, Indianapolis, IN 46201",Indianapolis,IN
+6,6,3236,450000,"2040-2040 N Park Ave #2042, Indianapolis, IN 46202",Indianapolis,IN
+3,3,3382,400000,"9807 Violet Cir, Indianapolis, IN 46239",Indianapolis,IN
+3,2,1384,330000,"5750 Susan Dr E, Indianapolis, IN 46250",Indianapolis,IN
+4,2,1128,135000,"856 Westbrook Ave, Indianapolis, IN 46241",Indianapolis,IN
+3,3,2448,349500,"2849 N New Jersey St, Indianapolis, IN 46205",Indianapolis,IN
+3,1,1599,69900,"3550 E New York St, Indianapolis, IN 46201",Indianapolis,IN
+4,4,3750,469900,"1101 Larch St, Indianapolis, IN 46201",Indianapolis,IN
+6,3,2616,225000,"2520 SW Washburn Ave, Topeka, KS 66611",Topeka,KS
+3,3,3101,279900,"1530 SE 43rd Pl, Topeka, KS 66609",Topeka,KS
+3,2,1504,128850,"2419 SW Harrison St, Topeka, KS 66611",Topeka,KS
+3,2,1642,384900,"4317 SW Lakeside Dr, Topeka, KS 66610",Topeka,KS
+3,4,2228,264900,"2605 SW Arvonia Pl, Topeka, KS 66614",Topeka,KS
+3,2,1912,179000,"4501 SW 17th St, Topeka, KS 66604",Topeka,KS
+4,3,2291,275000,"2637 SW Ashworth Pl, Topeka, KS 66614",Topeka,KS
+5,3,2884,338000,"2839 SW Berkshire Dr, Topeka, KS 66614",Topeka,KS
+3,2,1480,199000,"2245 SW Belle Ave, Topeka, KS 66614",Topeka,KS
+4,2,2194,329900,"19 Baltusrol Ct, Dover, DE 19904",Dover,DE
+5,4,3750,549900,"41 Pine Valley Rd, Dover, DE 19904",Dover,DE
+4,2,2000,430000,"8329 Bayside Dr, Dover, DE 19901",Dover,DE
+3,2,1820,430900,"The Larkspur- 3 Plan, Noble's Pond",Noble's Pond,DE
+3,2,1555,260000,"4609 Pearsons Corner Rd, Dover, DE 19904",Dover,DE
+3,2,1488,320000,"57 Elm Ter, Dover, DE 19901",Dover,DE
+2,2,1680,245000,"10722 Bayside Dr, Dover, DE 19901",Dover,DE
+3,2,1512,219000,"119 Persimmon Cir, Dover, DE 19901",Dover,DE
+0,0,37461,180000,"1819 Windswept Cir, Dover, DE 19901",Dover,DE
